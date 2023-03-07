@@ -77,3 +77,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 -   Jalankan `$ php artisan optimize`
 -   Jalankan `$ php artisan serve untuk akses aplikasi`
 -   Jalankan aplikasi ketik url berikut pada browser: `http://localhost:8000`
+
+## Information account
+
+-   Approver : (username: approver@gmail.com, password: password)
+-   Admin : (username: admin@gmail.com, password: password)
+-   Admin : (username: admin2@gmail.com, password: password)
